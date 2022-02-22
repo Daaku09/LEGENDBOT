@@ -48,7 +48,6 @@
 ## U Can Click Below Without Fork If Eror Then Go To Down One Deploy To Heroku
 
 <a href="https://heroku.com/deploy/https://github.com/Daaku09/LEGENDBOT)
-</a>
 
 - First Fork This Repo
 
