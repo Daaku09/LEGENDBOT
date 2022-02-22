@@ -48,13 +48,9 @@
 ## U Can Click Below Without Fork If Eror Then Go To Down One Deploy To Heroku
 
 <a href="https://heroku.com/deploy/https://github.com/Daaku09/LEGENDBOT)
-
 - First Fork This Repo
-
 - Change Name Of Repo
-
 - Click Below Deploy To Heroku
-
 
 - [![Deploy](https://telegra.ph/file/1ded5ead2f8cc5828897a.jpg)](https://heroku.com/deploy/)
 
